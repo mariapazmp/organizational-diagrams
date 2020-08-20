@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T18:31:51.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="wxERt40ekeQbohnENt6P" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T22:02:44.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="sbCZRMww1F4YBdsAXA35" version="13.6.4" type="github">
   <diagram id="WcGEt8lkspkDK3tWO-Oo" name="Page-1">
-    <mxGraphModel dx="1188" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="190" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jdzptdKL7uxqTELKaUPA-3" value="Super-story&lt;br&gt;(Épica)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="329" y="30" width="170" height="80" as="geometry" />
+          <mxGeometry x="329" y="10" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jdzptdKL7uxqTELKaUPA-4" value="Representación en Simulador del componente: métodos generales, posicionamiento y pintar atributos default (560/594)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="150" height="70" as="geometry" />
@@ -68,6 +68,136 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="410" as="sourcePoint" />
             <mxPoint x="430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-20" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="100" as="sourcePoint" />
+            <mxPoint x="840" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-21" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jdzptdKL7uxqTELKaUPA-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="100" as="sourcePoint" />
+            <mxPoint x="170" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-22" value="" style="endArrow=classic;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jdzptdKL7uxqTELKaUPA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="100" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-23" value="Backend" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-24" value="Creación nuevo componente en el Backend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="180" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-25" value="Creación componente library" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="485" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-26" value="Configuración íconos del componente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="465" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="559.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-28" value="" style="endArrow=classic;html=1;entryX=-0.014;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-24" target="jdzptdKL7uxqTELKaUPA-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="420" as="sourcePoint" />
+            <mxPoint x="50" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-29" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.342;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-24" target="jdzptdKL7uxqTELKaUPA-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="240" as="sourcePoint" />
+            <mxPoint x="50" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-31" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="jdzptdKL7uxqTELKaUPA-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="530" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-33" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-25" target="jdzptdKL7uxqTELKaUPA-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="620" as="sourcePoint" />
+            <mxPoint x="80" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-34" value="Front-end" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-35" value="Mobile" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-37" value="Representación componente Android" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="175" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-38" value="Representación componente iOS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-42" value="WEB" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-43" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jdzptdKL7uxqTELKaUPA-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="100" as="sourcePoint" />
+            <mxPoint x="770" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-44" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="100" as="sourcePoint" />
+            <mxPoint x="840" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-45" value="Prueba de concepto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-46" value="Creación del contrato" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="113" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-47" value="Creación del componente lógico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="295" width="113" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-48" value="Representacion visual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-49" value="Contract Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-50" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-37" target="jdzptdKL7uxqTELKaUPA-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="230" as="sourcePoint" />
+            <mxPoint x="670" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-51" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-37" target="jdzptdKL7uxqTELKaUPA-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-52" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-37" target="jdzptdKL7uxqTELKaUPA-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-53" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.903;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-37" target="jdzptdKL7uxqTELKaUPA-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-54" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-37" target="jdzptdKL7uxqTELKaUPA-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
