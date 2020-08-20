@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T16:27:56.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.4" etag="zs4qzuahIHDYZ23MZTBI" type="github"><diagram id="WcGEt8lkspkDK3tWO-Oo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-20T18:31:51.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="wxERt40ekeQbohnENt6P" version="13.6.4" type="github">
+  <diagram id="WcGEt8lkspkDK3tWO-Oo" name="Page-1">
+    <mxGraphModel dx="1188" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jdzptdKL7uxqTELKaUPA-1" value="Creación mock data en descriptors.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-3" value="Super-story&lt;br&gt;(Épica)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="329" y="30" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-4" value="Representación en Simulador del componente: métodos generales, posicionamiento y pintar atributos default (560/594)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-5" value="Editor nuevo #1:&lt;br&gt;Representación en Simulador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-6" value="Atributos que se van a ver y que se van a esconder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-7" value="Creación de editores nuevos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-8" value="&lt;p style=&quot;line-height: 120%&quot;&gt;Asignación de valores por defecto de los atributos&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-9" value="Creación de los descriptores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-10" value="Editor nuevo #1: Representación en Right Panel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-11" value="Elemento adicional #1 (flechas, tooltips): Representación en Simulador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-13" value="Editor&lt;br&gt;Nuevo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-14" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jdzptdKL7uxqTELKaUPA-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="540" as="sourcePoint" />
+            <mxPoint x="340" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="560" as="sourcePoint" />
+            <mxPoint x="320" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-16" value="Componente nuevo&lt;br&gt;(560)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-17" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jdzptdKL7uxqTELKaUPA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-16" target="jdzptdKL7uxqTELKaUPA-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdzptdKL7uxqTELKaUPA-19" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jdzptdKL7uxqTELKaUPA-16" target="jdzptdKL7uxqTELKaUPA-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
